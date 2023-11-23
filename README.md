@@ -2,6 +2,8 @@
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
+
+# Discord `butcher7452`
 A standard game of Tic-Tac-Toe in Leo.
 
 ⭕ ❕ ⭕ ❕ ❌
